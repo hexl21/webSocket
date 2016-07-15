@@ -14,7 +14,7 @@
 
 #代码实现
 <br/><b>1.先用MyEclipse/Eclipse引入该项目。</b>
-<br/>注意要修改下面2个文件(index.html/webSocket.js)，将IP地址为自己的。或者修改为localhost也行。
+<br/>注意要修改下面2个文件(index.html/webSocket.js)，将IP地址修改为自己的。或者修改为localhost也行。
 <br/><b>2.运行WebSocket项目。注意是否会有报错。</b>
 <br/><b>3.在需要接收推送信息的项目头部引入js的url</b>
 <br/>例如：src="XXXXXX:8080/webSocket/webSocket.js"
